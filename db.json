@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Appointment with the staff",
+      "day": "Feb 15,  Wednesday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Go to service for the car",
+      "day": "Feb 17, Friday",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
